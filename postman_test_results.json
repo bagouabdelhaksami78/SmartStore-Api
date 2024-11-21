@@ -1,0 +1,20 @@
+{
+    "collection": "Project API Tests",
+    "results": [
+        {
+            "request": "Register User",
+            "status": "success",
+            "response_code": 201
+        },
+        {
+            "request": "Login User",
+            "status": "success",
+            "response_code": 200
+        },
+        {
+            "request": "Get Users with Pagination",
+            "status": "success",
+            "response_code": 200
+        }
+    ]
+}
